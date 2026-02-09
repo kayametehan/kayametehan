@@ -195,7 +195,7 @@ Computer Science student specializing in AI-powered applications and full-stack 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=ff0000&labelColor=000000)](https://github.com/kayametehan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ff0000&labelColor=000000)](mailto:metehank770@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ff0000&labelColor=000000)](https://linkedin.com/in/metehan-kaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ff0000&labelColor=000000)](https://www.linkedin.com/in/metehan-kaya-5b584b313/)
 
 <br>
 
