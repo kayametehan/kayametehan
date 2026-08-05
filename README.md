@@ -4,12 +4,19 @@
 
 <img src="https://github.com/kayametehan.png" width="120" height="120" style="border-radius:50%;"/>
 
-### Yazılım Geliştirici · AI & Web Teknolojileri · UI/UX
-📍 İzmit, Kocaeli, Türkiye
+### AI & Software Developer · Your Friendly Neighborhood Full-Stack
+📍 İzmit, Kocaeli, Turkey · 🟢 Open to Opportunities
+
+*AI systems and software, engineered like hardware. I build voice assistants, real-time platforms, and personal AI systems — then print and fly the physical things alongside them. Self-taught, project-driven.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/kayametehan)
+[![Followers](https://img.shields.io/github/followers/kayametehan?style=flat-square&label=followers&color=8B0000)](https://github.com/kayametehan?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/metehan-kaya-5b584b313/)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=D14836)](mailto:metehank770@gmail.com)
+
+| 4 | 3 | 6 | 3+ |
+|:---:|:---:|:---:|:---:|
+| Shipped Projects | Business Clients | In Development | Years Building |
 
 </div>
 
@@ -17,30 +24,34 @@
 
 ### 👋 About Me
 
-Kocaeli Anadolu Lisesi mezunuyum ve **Eylül 2026**'da İtalya'da **Messina Üniversitesi**'nde Data Informatics eğitimime başlayacağım (kabul alındı, vize süreci devam ediyor). Üniversite öncesinde iki firmada yazılım ve teknoloji süreçlerinin tamamından fiilen sorumlu oldum. Yapay zeka, web geliştirme ve tasarım alanlarında kendi kendime öğrenerek ilerledim; **Teknofest** ve **TÜBİTAK** gibi ulusal yarışmalarda somut projelerle yer aldım.
+I graduated from Kocaeli Anadolu High School and will start a **Data Informatics** degree at the **University of Messina**, Italy in **September 2026** (admitted, visa process in progress). Before university, I've been fully responsible for the software and technology operations at two companies. I taught myself AI, web development, and design, and competed with concrete projects in national competitions like **Teknofest** and **TÜBİTAK**.
 
-🎯 **Hedef:** Data Informatics eğitimimi pratik yazılım/AI iş deneyimimle birleştirip, gerçek dünya problemlerini çözen ürünler geliştiren bir yazılım/veri mühendisi olmak.
+🎯 **Goal:** Combine my Data Informatics degree with hands-on software/AI industry experience to become a software/data engineer who builds innovative products that solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,postgres,prisma,git,github,vercel,blender,figma,linux" />
+<img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,linux,wordpress,git,github,sqlite" />
 
 </div>
+
+`AI / Data Science` `Cybersecurity` `REST APIs` `MCP Servers` `Automation Scripting` `Network Systems` `Linux Shell Scripting`
+
+**Languages:** Turkish (native) · English (B2 — listening, reading, spoken & written)
 
 ---
 
 ### 💼 Experience
 
-**Yazılım ve Teknoloji Sorumlusu** — Altın Ticaret Civata ve Teknik Hırdavat & Yaşa Madeni Yağ ve Filtre, İzmit · *devam ediyor*
+**Software & Technology Lead** — Altın Ticaret Civata ve Teknik Hırdavat & Yaşa Madeni Yağ ve Filtre, İzmit · *Present*
 
-- Kurumsal web sitelerinin (`altinmakine.com`, `yasamadeniyaglar.com`) tasarım, geliştirme ve bakımını yürütüyorum
-- Bayi hesapları için ürün görseli, açıklama, stok ve fiyat senkronizasyonu yapan otomasyon/scraping script'leri geliştirdim; barkod öncelikli, bulanık isim eşleştirmeli bir ürün eşleştirme stratejisi tasarladım
-- Next.js ve PostgreSQL/Prisma ile çok bayili fiyatlandırma ve rol bazlı yetkilendirme içeren bir B2B toptan satış platformu geliştiriyorum
-- Stok/ürün verisinin doğruluğunu sağlıyor, API entegrasyonu sorunlarını çözüyorum
+- Design, build, and maintain corporate websites (`altinmakine.com`, `yasamadeniyaglar.com`)
+- Built automation/scraping scripts that sync product images, descriptions, stock, and pricing across dealer accounts; designed a barcode-first, fuzzy-name-matching product-matching strategy with manual review for low-confidence matches
+- Building a multi-dealer B2B wholesale platform with tiered pricing and role-based access, using Next.js and PostgreSQL/Prisma
+- Ensure product/stock data accuracy and resolve technical issues in API integrations
 
 ---
 
@@ -62,26 +73,43 @@ Local-first knowledge base that turns documents, code, and web pages into an int
 
 ---
 
-### 📂 Other Projects
+### 📦 Shipped Projects
 
-**🩺 KalKet** — Mamografi görüntülerinden meme kanseri şüphesi tespit eden görüntü işleme / makine öğrenmesi modeli. `Python` `Image Processing` `ML`
+| Project | Description | Date |
+|---|---|---|
+| **DataBee** | Platform for creating your personal AI twin | Jan 2025 – |
+| **Poddy** | AI voice assistant | Apr 2025 |
+| **MTC Service** | Full-stack vehicle service registration system | Mar 2025 |
+| **Whisper** | Full-stack real-time chat app | Feb 2025 |
 
-**📈 Borsa Analiz Aracı** — Python ve `yfinance` ile hisse senedi verisi çeken, yapay zeka destekli öngörüler üreten uygulama. `Python` `yfinance` `AI`
+### 🧪 In Development
 
-**🏠 Akıllı Ev Otomasyon Sistemi** — TÜBİTAK yarışmasında dereceye giren, düşük maliyetli özgün akıllı ev sistemi. `IoT` `Embedded`
+| Project | Description | Status |
+|---|---|---|
+| **WSA / Panom** | Node.js + Express + SQLite kanban app; Claude Code sessions manage cards via a dedicated MCP server | Active |
+| **Pixel Agents** | VS Code extension + CLI that turns AI agents into pixel-art office characters | Building |
+| **altinticweb** | Gold-trading website with scraper & image-downloading tools | Live |
+| **petrolb2b** | B2B platform for the petroleum sector, built on Next.js | In progress |
+| **B2B Stock Migration** | Migrating a legacy stock system to a new schema, resolving missing barcode records | Ongoing |
 
-**💬 Topluluk Sohbet Botu** — Gemini API ile Discord topluluğu için özelleştirilmiş sohbet botu. `Discord` `Gemini API`
+### 🌐 Live Websites
+
+- **[Altın Makine](https://altinmakine.com)** — Hardware & industrial tools e-commerce site. Designed and built solo, end-to-end — from product catalog to checkout — and shipped to production.
+- **[Yaşam Madeni Yağlar](https://yasamadeniyaglar.com)** — Lubricant oils company website. Took a traditional, offline-first company online — full site architecture, product presentation, and brand voice.
 
 ---
 
-### 📊 GitHub Stats
+### 🤝 Clients
 
-<div align="center">
+**Yaşam Madeni Yağlar** · **Altın Ticaret** · **Yağ Filtre Nalbur**
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kayametehan&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayametehan&layout=compact&hide_title=true&theme=dark&hide_border=true"/>
+End-to-end delivery across website development, inventory/stock software, AI integrations, Excel automation, digital design, backend & frontend, mail/web server setup, CRM systems, e-commerce, network systems, WhatsApp integrations, and cybersecurity.
 
-</div>
+> *"He rebuilt our whole online presence and still keeps our product data and stock organized. Before, everything was scattered across spreadsheets — now it just works."* — **Yaşam Madeni Yağlar**
+
+> *"He built our stock software, automated the Excel work that used to eat up hours every week, and set up our e-commerce store on top of it. A true digital Swiss Army knife."* — **Altın Ticaret**
+
+> *"From the website to our mail servers, network, and CRM — he set it all up and it hasn't given us a single problem since."* — **Yağ Filtre Nalbur**
 
 ---
 
@@ -89,13 +117,18 @@ Local-first knowledge base that turns documents, code, and web pages into an int
 
 | | |
 |---|---|
-| 🇮🇹 **Data Informatics (B.Sc.)** — Università degli Studi di Messina | Eylül 2026'da başlıyor · kabul alındı, vize süreci devam ediyor |
-| 🎓 **Lise Diploması** — Kocaeli Anadolu Lisesi | Mezun |
+| 🇮🇹 **Data Informatics (B.Sc.)** — University of Messina | Starts Sep 2026 · admitted, visa in progress |
+| 🎓 **High School Diploma** — Kocaeli Anadolu High School | Graduated |
 | 🌐 **Developing Sites for the Web** — IBM SkillsBuild | 2024 |
-| 🤖 **Robotics and Coding** — MEB | 2023 |
-| 🖨️ **3D Printer Operator** — MEB | 2022 |
+| 🤖 **Robotics and Coding** — Ministry of National Education, Turkey | 2023 |
+| 🖨️ **3D Printer Operator** | Oct 2022 |
+| 🛡️ **Addiction Prevention Training** | Mar 2018 |
 
-**🏆 Yarışmalar:** TÜBİTAK (Akıllı Ev Otomasyonu — derece) · Teknofest (Yazılım/AI kategorisi)
+**🏆 Competitions:** Teknofest — Medical AI prototype (early cancer detection model, student team, reached competition phase) · TÜBİTAK — conversational AI project, certified participation
+
+### 🎨 Beyond Code
+
+Drone operation (DJI series, aerial photography & flight planning) · 3D modeling & printing (CAD to FDM, home lab) · Digital entrepreneurship (self-written scripts & digital products, sold online)
 
 ---
 
