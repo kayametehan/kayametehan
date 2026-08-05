@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=200&section=header&text=METEHAN%20KAYA&fontSize=56&fontColor=ff0000&fontAlignY=40" width="100%"/>
 
-<img src="https://github.com/kayametehan.png" width="120" height="120" style="border-radius:50%;"/>
-
 ### AI & Software Developer · Your Friendly Neighborhood Full-Stack
 📍 İzmit, Kocaeli, Turkey · 🟢 Open to Opportunities
 
