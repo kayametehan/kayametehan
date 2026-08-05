@@ -88,7 +88,7 @@ Local-first knowledge base that turns documents, code, and web pages into an int
 |---|---|---|
 | **WSA / Panom** | Node.js + Express + SQLite kanban app; Claude Code sessions manage cards via a dedicated MCP server | Active |
 | **Pixel Agents** | VS Code extension + CLI that turns AI agents into pixel-art office characters | Building |
-| **altinticweb** | Gold-trading website with scraper & image-downloading tools | Live |
+| **altinticweb** | Hardware & industrial tools trade website with supporting scraper & image-downloading tools | Live |
 | **petrolb2b** | B2B platform for the petroleum sector, built on Next.js | In progress |
 | **B2B Stock Migration** | Migrating a legacy stock system to a new schema, resolving missing barcode records | Ongoing |
 
